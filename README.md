@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Linkedin Profile](https://www.linkedin.com/in/hdesouza/)
+
 <!--
 **H3rN4n/H3rN4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
